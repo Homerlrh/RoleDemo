@@ -7769,19 +7769,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cindyle\\.nuget\\packages\\": {}
+    "C:\\Users\\Homer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COMP4514\\WK11\\roleDemo\\roleDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Homer\\Source\\Repos\\emo8355\\RoleDemo\\roleDemo\\roleDemo.csproj",
       "projectName": "roleDemo",
-      "projectPath": "C:\\COMP4514\\WK11\\roleDemo\\roleDemo.csproj",
-      "packagesPath": "C:\\Users\\cindyle\\.nuget\\packages\\",
-      "outputPath": "C:\\COMP4514\\WK11\\roleDemo\\obj\\",
+      "projectPath": "C:\\Users\\Homer\\Source\\Repos\\emo8355\\RoleDemo\\roleDemo\\roleDemo.csproj",
+      "packagesPath": "C:\\Users\\Homer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Homer\\Source\\Repos\\emo8355\\RoleDemo\\roleDemo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cindyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Homer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7864,7 +7871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
