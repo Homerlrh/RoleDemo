@@ -28,6 +28,12 @@ namespace roleDemo.Controllers
         }
 
         [Authorize]
+        public IActionResult CindyPage()
+        {
+            return View();
+        }
+
+        [Authorize]
         public IActionResult SecureArea()
         {
             // Get user name of user who is logged in.
